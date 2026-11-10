@@ -14,5 +14,5 @@ Security enthusiast focused on offensive security, network penetration testing, 
 * **Exploitation & Post-Exploitation:** Metasploit, Netcat, John the Ripper, LinPEAS
 
 ### Profiles
-* **TryHackMe:** [profile link](https://tryhackme.com/p/N3t1i)
+* **TryHackMe:** [N3t1i](https://tryhackme.com/p/N3t1i)
 * **Contact:** netli.destorer@gmail.com
