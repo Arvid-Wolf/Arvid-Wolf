@@ -1,16 +1,18 @@
-## Hi there 👋
+### Vladislav (Arvid Wolf) Martynenko
+> **Junior Penetration Tester** | **TryHackMe PT1 Candidate**
 
-<!--
-**Arvid-Wolf/Arvid-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+Security enthusiast focused on offensive security, network penetration testing, and vulnerability assessment. Currently undergoing hands-on preparation for the **TryHackMe Junior Penetration Tester (PT1)** certification. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills & Toolkit
+* **OS:** Linux (Kali, Ubuntu)
+* **Languages & Scripting:** Python, Bash
+* **Reconnaissance & Scanning:** Nmap, Gobuster, Wireshark
+* **Web Application Testing:** Burp Suite, OWASP Top 10 fundamentals
+* **Exploitation & Post-Exploitation:** Metasploit, Netcat, John the Ripper, LinPEAS
+
+### Profiles
+* **TryHackMe:** [profile link](https://tryhackme.com/p/N3t1i)
+* **Contact:** netli.destorer@gmail.com
